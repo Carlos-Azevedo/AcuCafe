@@ -48,6 +48,7 @@ namespace AcuCafe
                     throw new ArgumentException($"Unknown drink type: {type}");
             }
 
+            //I tried to make it as simple as possible to add new interfaces, following the expected pattern
             if(hasChocolate)
             {
                 IChocolateDrink chocoDrink = newDrink as IChocolateDrink;
