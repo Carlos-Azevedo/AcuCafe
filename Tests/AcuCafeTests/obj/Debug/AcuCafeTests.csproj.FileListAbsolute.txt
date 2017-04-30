@@ -1,0 +1,11 @@
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\AcuCafeTests.dll
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\AcuCafeTests.pdb
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\Castle.Core.dll
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\Moq.dll
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\Castle.Core.xml
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\Moq.xml
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\obj\Debug\AcuCafeTests.csprojResolveAssemblyReference.cache
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\obj\Debug\AcuCafeTests.dll
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\obj\Debug\AcuCafeTests.pdb
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\AcuCafe.dll
+E:\Downloads\AcuCafe\AcuCafe\Tests\AcuCafeTests\bin\Debug\AcuCafe.pdb

@@ -1,0 +1,5 @@
+E:\Downloads\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.dll
+E:\Downloads\AcuCafe\AcuCafe\AcuCafe\bin\Debug\AcuCafe.pdb
+E:\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.csprojResolveAssemblyReference.cache
+E:\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.dll
+E:\Downloads\AcuCafe\AcuCafe\AcuCafe\obj\Debug\AcuCafe.pdb
